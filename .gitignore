@@ -1,0 +1,10 @@
+EJEMPLO0/.terraform/providers/registry.terraform.io/hashicorp/aws/5.98.0/linux_amd64/LICENSE.txt
+EJEMPLO0/.terraform/providers/registry.terraform.io/hashicorp/aws/5.98.0/linux_amd64/terraform-provider-aws_v5.98.0_x5
+EJEMPLO0/.terraform.lock.hcl
+EJEMPLO2/.terraform/providers/registry.terraform.io/hashicorp/aws/5.98.0/linux_amd64/LICENSE.txt
+EJEMPLO2/.terraform/providers/registry.terraform.io/hashicorp/aws/5.98.0/linux_amd64/terraform-provider-aws_v5.98.0_x5
+EJEMPLO2/.terraform.lock.hcl
+EJEMPLO2/terraform.tfstate
+EJEMPLO2/terraform.tfstate.backup
+EJEMPLO0/terraform.tfstate
+EJEMPLO0/terraform.tfstate.backup

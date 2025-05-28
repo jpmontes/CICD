@@ -1,0 +1,19 @@
+- name: Configurar servidor web
+  hosts: all
+  become: yes
+  tasks:
+    - name: Instalar nginx
+      yum:
+        name: nginx
+        state: present
+
+    - name: Iniciar nginx
+      service:
+        name: nginx
+        state: started
+        enabled: yes
+
+    - name: Página HTML
+      copy:
+        dest: /usr/share/nginx/html/index.html
+        content: "<h1>Despliegue exitoso desde GitHub Actions</h1>"
