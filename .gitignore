@@ -8,3 +8,4 @@ EJEMPLO2/terraform.tfstate
 EJEMPLO2/terraform.tfstate.backup
 EJEMPLO0/terraform.tfstate
 EJEMPLO0/terraform.tfstate.backup
+EJEMPLO0/.terraform.tfstate.lock.info
